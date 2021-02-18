@@ -89,7 +89,4 @@ void loop (){
       lcd.print("$");
     }
    } 
-   
-    
-     
-}
+ }
